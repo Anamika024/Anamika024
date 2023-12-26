@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **anamikapatel624@gmail.com**
 
-- ⚡ Fun fact **I think I am funny😂**
+- ⚡ Fun fact **I think I am an Extrovert but I am not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
