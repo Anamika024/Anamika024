@@ -27,4 +27,4 @@
 
 <hr/>
 
-:star: From [@Anamika_Patel](https://github.com/Anamika024)
+:star: From [@AnamikaPatel](https://github.com/Anamika024)
