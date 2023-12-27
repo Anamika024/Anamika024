@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi 👋, I'm Anamika Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3c3JlN2xjNGxkNmNwdGNtaGQya3JtbjhpcHFrcTF3Mjc1dW8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika024&label=Profile%20views&color=0e75b6&style=flat" alt="anamika024" /> </p>
 
@@ -8,9 +8,10 @@
 
 - 📫 How to reach me **anamikapatel624@gmail.com**
 
-- ⚡ Fun fact **I think I am an Extrovert but I am not.**
+- ⚡ Hobby - Chess, Calligraphy 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anamika701/)
 <p align="left">
 </p>
 
