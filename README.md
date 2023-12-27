@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika024&show_icons=true&locale=en&count_private=true&theme=radical" alt="anamika024" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika024&count_private=true&theme=radical" alt="anamika024" /></p>
+
+<hr/>
+
+:star: From [@Anamika_Patel](https://github.com/Anamika024)
