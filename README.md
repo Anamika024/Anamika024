@@ -4,13 +4,13 @@
 <img align="right" alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3c3JlN2xjNGxkNmNwdGNtaGQya3JtbjhpcHFrcTF3Mjc1dW8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika024&label=Profile%20views&color=0e75b6&style=flat" alt="anamika024" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, Courses etc.**
+- 🌱 I'm exploring different fields in software development and learning new skills.
 
 - 📫 How to reach me **anamikapatel624@gmail.com**
 
 - ⚡ Hobby - Chess, Calligraphy 
 
-### Connect with me:-
+### Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anamika701/)
 <p align="left">
 </p>
