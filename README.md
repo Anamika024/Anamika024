@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3c3JlN2xjNGxkNmNwdGNtaGQya3JtbjhpcHFrcTF3Mjc1dW8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika024&label=Profile%20views&color=0e75b6&style=flat" alt="anamika024" /> </p>
+- 🔭 I’m currently working on improving 🚧 my coding skills.
 
 - 🌱 I'm exploring different fields in software development and learning new skills.
 
