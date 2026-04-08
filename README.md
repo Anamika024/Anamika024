@@ -1,32 +1,69 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">Hi 👋, I'm Anamika Patel</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3c3JlN2xjNGxkNmNwdGNtaGQya3JtbjhpcHFrcTF3Mjc1dW8yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika024&label=Profile%20views&color=0e75b6&style=flat" alt="anamika024" /> </p>
+<h1 align="center">Hi, I'm Anamika Patel 👋</h1>
+<h3 align="center">☕ Full Stack Developer (Java) | 🤖 AI/ML Enthusiast | 🧠 DSA Problem Solver</h3>
 
-- 🔭 I’m currently working on improving 🚧 my coding skills.
-
-- 🌱 I'm exploring different fields in software development and learning new skills.
-
-- 📫 How to reach me **anamikapatel624@gmail.com**
-
-- ⚡ Hobby - Chess, Calligraphy 
-
-### Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anamika701/)
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer;DSA+Problem+Solver;Spring+Boot+Backend+Developer;AI%2FML+Enthusiast;Building+Scalable+Applications" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anamika024&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="anamika024" /></p>
+### 👩‍💻 About Me
 
+- 🔥 Strong in **Data Structures & Algorithms (Java)**
+- ⚙️ Backend focused on **Java + Spring Boot + REST APIs**
+- 🌐 Building **Full Stack Applications with clean architecture**
+- 🌱 Exploring **AI/ML + System Design**
+- 💡 Passionate about solving **real-world problems through code**
+- ⚡ Fun fact: I debug faster than I overthink… sometimes 😄  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika024&show_icons=true&locale=en&count_private=true&theme=radical" alt="anamika024" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika024&count_private=true&theme=radical" alt="anamika024" /></p>
+### 🛠️ Tech Stack
 
-<hr/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,mysql,python,html,css,tailwind,bootstrap,git,github,postman" />
+</p>
 
-:star: From [@AnamikaPatel](https://github.com/Anamika024)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anamika024&show_icons=true&theme=radical&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamika024&layout=compact&theme=radical&cache_seconds=86400" height="170"/>
+</p>
+
+---
+
+### 🧠 What I Focus On
+
+- 🧩 **DSA & Problem Solving (LeetCode / CP)**
+- ⚙️ **Backend Engineering (Java, Spring Boot, REST APIs)**
+- 🏗️ **Building Scalable & Clean Architecture Systems**
+- 🎨 **Frontend UI (React + Tailwind)**
+- 🧠 **System Design & Real-world Application Development**
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:anamikapatel624@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anamika701/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💭 Quote I Believe In
+
+<p align="center">
+  <i>"Consistency beats talent when talent doesn’t work hard."</i>
+</p>
+
+---
+
+⭐ *Open to opportunities, collaborations, and building impactful tech!*
